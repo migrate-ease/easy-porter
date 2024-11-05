@@ -1,0 +1,5 @@
+requests>=2.22.0
+python-magic==0.4.27
+lxml==4.9.1
+pathlib==1.0.1
+urllib3==1.26.12
